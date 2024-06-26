@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "167309102541",
+    "project_id": "ikya-9c384",
+    "storage_bucket": "ikya-9c384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167309102541:android:2c8677eab2c1c8f1da4884",
+        "android_client_info": {
+          "package_name": "com.example.ikya_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167309102541-ab8rag82sbi5nc5qtsk3th9cf63auk62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikya_app",
+            "certificate_hash": "092c95c661045fd24b36ba08ab8b56502eef2a84"
+          }
+        },
+        {
+          "client_id": "167309102541-ljohs0bkvnn9itnb0nlf3veu27ppvfhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikya_app",
+            "certificate_hash": "91ca15c97942319391bfcbf62e8f3adb09a5df21"
+          }
+        },
+        {
+          "client_id": "167309102541-q6b8opee23i40e91ihoqbtu2vmfh6gd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikya_app",
+            "certificate_hash": "5f991b6d728c98c318a0a6b05aea9dbf63146697"
+          }
+        },
+        {
+          "client_id": "167309102541-fkb6pg26igo9jbmrknjdq83ht2ntee7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkdI8WzIJfVnAyR-4SDOGit-zihE9Yk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167309102541-fkb6pg26igo9jbmrknjdq83ht2ntee7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
